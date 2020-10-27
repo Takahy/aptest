@@ -15,7 +15,6 @@ requires = [
     'pyramid_debugtoolbar',
     'waitress',
     'apscheduler',
-    'datetime',
 ]
 
 tests_require = [
