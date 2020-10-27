@@ -1,7 +1,6 @@
 # aptest
 
 ## What is this?
----
 Pyramidのプロジェクト内でAPSchedulerを使う必要ができたので練習。
 
 サーバを起動し、ブラウザからアクセスすると5秒ごとに1増える数字が表示される。動的表示は行っていないのでリロードの必要がある。
@@ -11,7 +10,6 @@ Pyramidのプロジェクト内でAPSchedulerを使う必要ができたので�
 5秒に1回インクリメント関数が呼び出される処理がバックグラウンドで行われている。
 
 ## 環境
----
 
 - Ubuntu 18.04 LTS
 
@@ -24,7 +22,6 @@ Pythonの関数の定期実行などができるスケジューラ。cronみた�
 Pythonのwebフレームワーク。
 
 ## Getting Started
----
 
 Change directory into your newly created project.  
 ```cd aptest```
@@ -43,7 +40,6 @@ Run your project's tests.
 
 
 ## How to use
----
 
 ### 起動
 
